@@ -112,9 +112,6 @@ class MyApp extends StatelessWidget {
                 fit: BoxFit.cover,
               ),
             ),
-            Container(
-              child: Text("ok"),
-            )
           ],
         ),
       ),
